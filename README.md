@@ -1,4 +1,4 @@
-# Edwin Betancur
+# Hi, I'm Edwin Betancur, a.k.a edbetanc
 
 class WhoAmI:
     """Class to introduce Edbetanc :)"""
