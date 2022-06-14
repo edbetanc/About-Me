@@ -9,7 +9,7 @@ class WhoAmI:
         print("Well-Known: {}".format(self.get_well_known_tech_tools()))
         print("Hobbies: {}" .format(self.get_hobbies()))
 
-    def get_current_learning_tech_tools(self):
+     <font color="red"> def </font> get_current_learning_tech_tools(self):
         return(["AWS", "Kubernetes", "GitLab CI/CD", "Terraform", "Jenkins"])
 
     def get_well_known_tech_tools(self):
