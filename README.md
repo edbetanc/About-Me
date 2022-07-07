@@ -14,7 +14,7 @@ class WhoAmI:
 
     def get_well_known_tech_tools(self):
         return({
-            "Middleware & IBM Tools": "Integration BUS, MQ, API Connect, Websphere Application Server,Apache Tomcat, Nginx",
+            "Middleware & IBM Tools": "Integration BUS, MQ, API Connect, Websphere Application Server,Apache",
             "Methodologies": "ITIL, SCRUM, PMP",
             "DevOps Tools": "Git, Linux, Kubernetes, Jenkins, Terraform, AWS CloudFormation",
             "Cloud Computing": "AWS, IBM CLOUD",
